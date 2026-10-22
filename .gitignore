@@ -1,0 +1,4 @@
+# Publica apenas o currículo; arquivos pessoais ficam locais
+*
+!.gitignore
+!index.html
